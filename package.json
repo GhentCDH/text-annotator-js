@@ -16,5 +16,8 @@
     "./packages/text-annotator",
     "./packages/extension-tei",
     "./packages/text-annotator-react"
-  ]
+  ],
+  "dependencies": {
+    "@recogito/text-annotator": "^3.0.0-rc.27"
+  }
 }
